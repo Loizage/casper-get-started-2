@@ -1,6 +1,6 @@
-# Get started with Casper (Challange) Task #2
+# Get started with Casper (Challange)
 
-Task #1 Complete one of the existing tutorials for writing smart contracts
+## Task #2 Complete one of the existing tutorials for writing smart contracts
 
 #### Used tutorials:
 https://docs.casperlabs.io/en/latest/dapp-dev-guide/tutorials/counter/index.html
