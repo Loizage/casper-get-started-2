@@ -19,4 +19,4 @@ $ make build-contract
 You can run integration tests with this command:
 ```bash
 $ make test
-```
+```# Get started with Casper (Challange) Task #1
