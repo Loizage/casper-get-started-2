@@ -1,4 +1,15 @@
-# Counter Smart Contract
+# Get started with Casper (Challange) Task #2
+
+Task #1 Complete one of the existing tutorials for writing smart contracts
+
+#### Used tutorials:
+https://docs.casperlabs.io/en/latest/dapp-dev-guide/tutorials/counter/index.html
+https://docs.casperlabs.io/en/latest/dapp-dev-guide/tutorials/counter/walkthrough.html
+
+#### Full challenge report:
+https://hackmd.io/@FLU_hhcJRUytCphhn38Cfg/Casper_get_started
+
+## Counter Smart Contract
 
 This is an example of a simple smart contract, the Counter.
 
@@ -19,4 +30,4 @@ $ make build-contract
 You can run integration tests with this command:
 ```bash
 $ make test
-```# Get started with Casper (Challange) Task #1
+```
